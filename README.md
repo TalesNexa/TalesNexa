@@ -1,13 +1,12 @@
 # TalesNexa
 
-<div style="display: flex; align-items: center;">
-  <img src="https://drive.google.com/uc?export=view&id=1vT1yw5hVHU6MvScWWlay90w0IhVR1YbL" alt="Your App Logo" width="50" style="border-radius: 5px; float: left; margin-right: 10px;">
-  <span style="text-align: center;">
+<div>
+  <img src="https://drive.google.com/uc?export=view&id=1vT1yw5hVHU6MvScWWlay90w0IhVR1YbL" alt="TalesNexa Logo" width="50" style="border-radius: 5px; float: left; margin-right: 10px;">
+  <div style="display: flex; align-items: center;">
     📖🌐 Real-Time Collaborative Storytelling Platform - Craft Stories, Connect Globally 🌍🖋️
-  </span>
+  </div>
+  <div style="clear: left;"></div>
 </div>
-
-<div style="clear: left;"></div>
 
 
 ## Features
