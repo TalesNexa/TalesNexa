@@ -1,4 +1,4 @@
-# <img src="https://drive.google.com/uc?export=view&id=1vT1yw5hVHU6MvScWWlay90w0IhVR1YbL" alt="TalesNexa Logo" width="40" style="border-radius: 5px; float: left; margin-right: 10px;"> TalesNexa
+# <img src="https://drive.google.com/uc?export=view&id=1vT1yw5hVHU6MvScWWlay90w0IhVR1YbL" alt="TalesNexa Logo" width="40" style="border-radius: 5px; float: left; margin-right: 20px;"> TalesNexa
 
 <div style="display: flex; align-items: center;">
   <span style="text-align: center;">
