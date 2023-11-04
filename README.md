@@ -1,2 +1,31 @@
 # TalesNexa
-📖🌐 Real-Time Collaborative Storytelling Platform - Craft Stories, Connect Globally 🌍🖋️
+
+<div>
+  <img src="https://drive.google.com/uc?export=view&id=1K0MeqVmWf9_UQjmZVk7iMSCr874Ydtat" alt="Your App Logo" width="50" style="border-radius: 5px; float: left; margin-right: 10px;">
+  📖🌐 Real-Time Collaborative Storytelling Platform - Where Imagination Knows No Bounds. Craft Stories, Connect Globally, and Share the Magic of Words Across Continents 🌍🖋️🌟
+  
+  <div style="clear: left;"></div> <!-- Clear the float -->
+</div>
+
+
+## Features
+
+- **Real-Time Collaboration**: Collaboratively create stories in real-time with users from various locations.
+
+- **Voting System**: Users can upvote or downvote paragraphs to determine the story's direction.
+
+- **User Chat**: Engage in discussions with other users about the story's progress.
+
+- **User Profiles**: Create and customize user profiles with avatars and other information.
+
+## Tech Stack
+
+- Frontend: React, Redux, Socket.io, React Router, HTML, CSS
+
+- Backend: Node.js, Express.js, Socket.io, MongoDB, Passport.js
+
+
+
+---
+
+- © 2023 TalesNexa
